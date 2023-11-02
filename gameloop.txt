@@ -1,3 +1,4 @@
+
 GAME LOOP
 -Comences a la cel·la de dia (Intro narrativa(company de cel·la))
 -Surts de la cel·la i passes el dia
@@ -44,3 +45,42 @@ CONDICIÓ VICTORIA:
 
 CONDICIÓ DERROTA:
 -Et quedes sense dies per escapar
+
+
+
+
+
+
+
+PROTOTIP:
+CONTEXT:
+Explicar el context
+SALES: 
+-Oficina de polis
+-Sala de cameras
+-Zona comú
+-Sala secreta(conserje)
+-Cel·les (passadís)
+-Vestidor de polis
+
+CONDICIÓ DE VICTORIA:
+-Trobar la clau universal del conserje
+
+RPERESENTACIÓ MECÀNIQUES:
+-Sigilo(Mostrar la mecànica de forma que de nit puguis anar sigilosament a descobrir les sales)
+-Rellotge(Fixar-te en l'hora)
+-Pistes del company(el company et dona algunes pistes/consells)
+-Collect objects(puguis agafar objectes de l'entorn)
+-Obrir armaris, calaixos...etc
+-Inventari de pistes(Inventari de totes les pistes)
+-Inventari(inventari visual)
+
+CONDICIÓ DERROTA:
+-Et quedes sense dies per escapar
+
+
+
+
+
+
+
