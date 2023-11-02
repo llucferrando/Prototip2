@@ -1,0 +1,46 @@
+GAME LOOP
+-Comences a la cel·la de dia (Intro narrativa(company de cel·la))
+-Surts de la cel·la i passes el dia
+	DIA:
+		-Et porta el poli a sala comú
+		-Zona comú: pati (player explora una mica)
+		-El porta al menjador (player explora)
+		-Player se'n va a dormir
+		-
+	NIT:
+		-Surts de la cel·la(si vols)-actúa segons les exploracions del dia
+		-Tens 5 minuts
+		-Relltoges per la presó
+		-Collect objectes si es cal
+		-Les portes estan obertes
+		-Penalització si estas fora de temps (mig dia en una sala aïllada)
+
+
+-Tens 10 dies per escapar, si et pillen skip de dia (PENA DE MUERTE)
+ 
+
+
+
+MECÀNIQUES
+-Collect objects
+-Obrir armaris, calaixos...etc
+-Inventari de pistes
+-Modo sigilo
+-Trobes ventatges (vestir-te de poli, rellotge, etc)
+-Llançar objecte per despistar poli
+-Spawn de objectes random (evitar repetició de gameplay)
+
+PUZZLES
+-Company de cel·la et dona pistes (si satisfàs al company amb un objectiu et dona pistes) / OBJECTIUS: portar menjar, portar diari,
+-Narrativa de pistes
+-Clau per la porta dels polis (ventatge de disfraç de poli)
+-
+
+CONDICIÓ VICTORIA:
+-Trobes la clau universal del conserje
+-Alliberar tots els reclusos
+-Surts disfrassat
+-Policia corrupte
+
+CONDICIÓ DERROTA:
+-Et quedes sense dies per escapar
